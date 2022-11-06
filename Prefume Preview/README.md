@@ -27,10 +27,10 @@ Users should be able to:
 
 ### Screenshot
 
--[Desktop Version](DesktopV.png)
--[Desktop Version Button Hover](DesktopV-hover.png)
--[Mobile Version width:375 px](MobileV.png)
--[Mobile Version Button Hover width:375 px](MobileV-hover.png)
+-[Desktop Version](screenshots/DesktopV.png)
+-[Desktop Version Button Hover](screenshots/DesktopV-hover.png)
+-[Mobile Version width:375 px](screenshots/MobileV.png)
+-[Mobile Version Button Hover width:375 px](screenshots/MobileV-hover.png)
 
 
 ### Links
