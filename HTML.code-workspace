@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../OpenBootcamp/HTML"
+		},
+		{
+			"path": "../Proyectos HTML/Práctica"
+		},
+		{
+			"path": "Newbie"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Newbie"
+	}
+}
