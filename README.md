@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/DevCloty/Product-Preview)
-- Solution Live URL: (https://devcloty.github.io/Product-Preview/preview-perfume.html)
+- [Solution URL](https://github.com/DevCloty/Product-Preview)
+- [Solution Live URL](https://devcloty.github.io/Product-Preview/)
 
 
 ## My process
